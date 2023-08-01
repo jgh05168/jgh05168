@@ -2,7 +2,9 @@
 
 
 <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgh05168&show_icons=true&theme=flag-india)
+
 </div>
 
 
