@@ -12,12 +12,11 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgh05168&show_icons=true&theme=flag-india)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgh05168)](https://solved.ac/jgh05168)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgh05168&layout=compact&theme=flag-india)
+
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgh05168&layout=compact&theme=flag-india)
 
 
 
