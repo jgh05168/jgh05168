@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🌟 Tech Stack 🌟
+<strong>🌟 Tech Stack 🌟</strong>
 
 <br>
 
