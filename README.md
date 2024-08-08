@@ -30,10 +30,15 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |![tf-removebg-preview](https://github.com/user-attachments/assets/10b6d914-e2e0-4a38-8e68-4916b4c40c46)|![keras-removebg-preview](https://github.com/user-attachments/assets/edf2c7f3-e5bd-4973-8236-300593e36c36)|![np-removebg-preview](https://github.com/user-attachments/assets/a4c8ada6-e63b-4e50-ae4e-03a038e70b5a)|![pandas-removebg-preview](https://github.com/user-attachments/assets/3784e76e-f806-4643-af6a-70b295479379)|![ml-removebg-preview](https://github.com/user-attachments/assets/d03c0215-7dd6-4dac-9235-d5c904b13367)|![sklera-removebg-preview](https://github.com/user-attachments/assets/4a083605-852d-4ce4-8090-b101d19909f6)|![cv-removebg-preview](https://github.com/user-attachments/assets/87bd6a81-c143-4034-b1e5-18bafbfbde3c)
 
+<h3> Tools & Envs, Platforms, Other:
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+<br>
+<br>
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+|Git|Jira|Node.js|ROS2|Arduino|Raspberry Pi|Socket.io|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|![git-removebg-preview](https://github.com/user-attachments/assets/59b4fcbb-d351-4ac2-9de5-d81380402f07)|![jira-removebg-preview](https://github.com/user-attachments/assets/99aa5741-6290-4eb5-a293-819ca5171e83)|![nj-removebg-preview](https://github.com/user-attachments/assets/2b6ebaee-bc8b-42e7-9598-1af8e666fd70)|![ros2-removebg-preview](https://github.com/user-attachments/assets/fcc73533-7bcd-4e2e-8e1a-cfb2a2b4aecb)|![ard-removebg-preview](https://github.com/user-attachments/assets/9b48b44b-68e7-45b3-a673-6936a0b9924e)|![rp-removebg-preview](https://github.com/user-attachments/assets/24f098d3-f56d-4096-b9f1-229e3609b5d8)|![si-removebg-preview](https://github.com/user-attachments/assets/e24a2aef-4ad4-488d-be99-b1a819a51156)|
+
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
