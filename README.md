@@ -10,11 +10,9 @@
 --------------------------------------
 
 
-<h3><strong>🌟 Tech Stack 🌟</strong>
+<h2><strong>🌟 Tech Stack 🌟</strong>
 
-<hr>
-
-<h4> Languages:
+<h3> Languages:
 
 <br>
 <br>
