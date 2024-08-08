@@ -10,13 +10,12 @@
 --------------------------------------
 
 
-<h2><strong>🌟 Tech Stack 🌟</strong>
+<h3><strong>🌟 Tech Stack 🌟</strong>
 
-<h3> Languages
+<h4> Languages:
 
 <br>
 <br>
-
 |Python3|C|C++|
 |:---:|:---:|:---:|
 |![pythonn](https://github.com/user-attachments/assets/603708be-423c-4153-b8e0-8a3e248adab1)|![c](https://github.com/user-attachments/assets/719134f5-b8c3-41c0-b853-9b9967851a89)|![c+](https://github.com/user-attachments/assets/16e07caa-c872-4afc-b6e5-c45782499a83)
