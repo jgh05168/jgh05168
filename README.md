@@ -59,7 +59,7 @@
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jgh05168&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jgh05168&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <img src="https://github.com/jgh05168/jgh05168/blob/output/github-contribution-grid-snake.svg"/>
