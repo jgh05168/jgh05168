@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋 
  
 <div align="right">
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgh05168%2F&count_bg=%2384CF4C&title_bg=%23888DFF&icon=waze.svg&icon_color=%23FAFD67&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
  
@@ -43,7 +45,7 @@
 |:---:|:---:|:---:|
 |![lin-removebg-preview](https://github.com/user-attachments/assets/5bcf9422-e8fe-40d3-9cd9-847dfad665fa)|![ub-removebg-preview](https://github.com/user-attachments/assets/b6d2fc95-1bf2-485a-96ae-a77a50b15ec0)|![wd-removebg-preview (1)](https://github.com/user-attachments/assets/49c05c00-dfa1-495a-9d7b-e964b96705ce)|
 
-
+<hr>
 
 <div align="center">
   
