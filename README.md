@@ -6,6 +6,7 @@
 
 </div>
 
+<hr>
  
 <h2><strong>🌟 Tech Stack 🌟</strong>
 
