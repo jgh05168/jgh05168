@@ -7,7 +7,7 @@
 
 </div>
 
-
+<div>
 <h2><strong>🌟 Tech Stack 🌟</strong>
 
 <h3>Languages:
@@ -46,7 +46,7 @@
 |:---:|:---:|:---:|
 |![lin-removebg-preview](https://github.com/user-attachments/assets/5bcf9422-e8fe-40d3-9cd9-847dfad665fa)|![ub-removebg-preview](https://github.com/user-attachments/assets/b6d2fc95-1bf2-485a-96ae-a77a50b15ec0)|![wd-removebg-preview (1)](https://github.com/user-attachments/assets/49c05c00-dfa1-495a-9d7b-e964b96705ce)|
 
----------------------------------------
+</div>
 
 <div align="center">
   
