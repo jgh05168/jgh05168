@@ -16,9 +16,9 @@
 
 <br>
 
-|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+|Python3|C|C++|
 |:---:|:---:|:---:|
-|![pythonn](https://github.com/user-attachments/assets/bb0941cf-4955-4905-9a1a-fd773dc92f26)|![c](https://github.com/user-attachments/assets/e5a3f0a3-74f4-4062-a3be-a88ecb8ffd09)|![c+](https://github.com/user-attachments/assets/9c0a7089-6f89-4374-8c46-26d92284ea3e)
+|![pythonn](https://github.com/user-attachments/assets/603708be-423c-4153-b8e0-8a3e248adab1)|![c](https://github.com/user-attachments/assets/719134f5-b8c3-41c0-b853-9b9967851a89)|![c+](https://github.com/user-attachments/assets/16e07caa-c872-4afc-b6e5-c45782499a83)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
