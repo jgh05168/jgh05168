@@ -7,7 +7,6 @@
 
 </div>
 
-<div>
  
 <h2><strong>🌟 Tech Stack 🌟</strong>
 
@@ -55,7 +54,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgh05168&layout=compact&theme=flag-india)
 
 
-</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jgh05168&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
