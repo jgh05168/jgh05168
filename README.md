@@ -1,5 +1,4 @@
-### Hi there 👋 
---------------------------------------
+<h1 align="center">Hi there 👋 
  
 <div align="right">
   
@@ -13,7 +12,7 @@
 
 <h2><strong>🌟 Tech Stack 🌟</strong>
 
-<h3> Languages:
+<h3>Languages:
 
 <br>
 <br>
