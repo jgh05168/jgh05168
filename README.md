@@ -12,6 +12,8 @@
 
 <h3><strong>🌟 Tech Stack 🌟</strong>
 
+<hr>
+
 <h4> Languages:
 
 <br>
