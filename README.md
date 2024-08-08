@@ -39,10 +39,14 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |![git-removebg-preview](https://github.com/user-attachments/assets/59b4fcbb-d351-4ac2-9de5-d81380402f07)|![jira-removebg-preview](https://github.com/user-attachments/assets/99aa5741-6290-4eb5-a293-819ca5171e83)|![nj-removebg-preview](https://github.com/user-attachments/assets/2b6ebaee-bc8b-42e7-9598-1af8e666fd70)|![ros2-removebg-preview (1)](https://github.com/user-attachments/assets/8224183a-5682-4270-8a6c-cc33f8cba780)|![ard-removebg-preview](https://github.com/user-attachments/assets/9b48b44b-68e7-45b3-a673-6936a0b9924e)|![rp-removebg-preview](https://github.com/user-attachments/assets/24f098d3-f56d-4096-b9f1-229e3609b5d8)|![si-removebg-preview](https://github.com/user-attachments/assets/e24a2aef-4ad4-488d-be99-b1a819a51156)|
 
+<h3> Languages:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+<br>
+<br>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+|Linux|Ubuntu|Windows|
+|:---:|:---:|:---:|
+|![lin-removebg-preview](https://github.com/user-attachments/assets/5bcf9422-e8fe-40d3-9cd9-847dfad665fa)|![ub-removebg-preview](https://github.com/user-attachments/assets/b6d2fc95-1bf2-485a-96ae-a77a50b15ec0)|![wd-removebg-preview (1)](https://github.com/user-attachments/assets/49c05c00-dfa1-495a-9d7b-e964b96705ce)|
 
 ---------------------------------------
 
