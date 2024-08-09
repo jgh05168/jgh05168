@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=300&section=header&text=Hello!-nl-%20I'm%20Gyuhun&fontSize=90&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=300&section=header&text=Hello!-nl-%20I'm%20Gyuhun&fontSize=90&fontAlign=50&fontAlign=70)
 
  
 <div align="right">
