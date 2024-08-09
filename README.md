@@ -1,15 +1,15 @@
 <div align="right">
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgh05168%2F&count_bg=%2384CF4C&title_bg=%23888DFF&icon=waze.svg&icon_color=%23FAFD67&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B0B0B0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,6,8,14,15,18,20,24,30&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
 
  
-<h2><strong>🌟 Tech Stack 🌟</strong>
+<h2><strong>🌟 Tech Stack 🌟</strong></h2>
 
-<h3>Languages:
+<h3>Languages:</h3>
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 |:---:|:---:|:---:|
 |![pythonn__1_-removebg-preview](https://github.com/user-attachments/assets/5bca7612-bf1c-40b6-bf95-496711f5c8a7)|![c](https://github.com/user-attachments/assets/719134f5-b8c3-41c0-b853-9b9967851a89)|![c+](https://github.com/user-attachments/assets/16e07caa-c872-4afc-b6e5-c45782499a83)
 
-<h3> Frameworks & Libraries:
+<h3>Frameworks & Libraries:</h3>
 
 <br>
 <br>
@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |![tf-removebg-preview](https://github.com/user-attachments/assets/10b6d914-e2e0-4a38-8e68-4916b4c40c46)|![keras-removebg-preview](https://github.com/user-attachments/assets/edf2c7f3-e5bd-4973-8236-300593e36c36)|![np-removebg-preview](https://github.com/user-attachments/assets/a4c8ada6-e63b-4e50-ae4e-03a038e70b5a)|![pandas-removebg-preview](https://github.com/user-attachments/assets/3784e76e-f806-4643-af6a-70b295479379)|![ml-removebg-preview](https://github.com/user-attachments/assets/d03c0215-7dd6-4dac-9235-d5c904b13367)|![sklera-removebg-preview](https://github.com/user-attachments/assets/4a083605-852d-4ce4-8090-b101d19909f6)|![cv-removebg-preview](https://github.com/user-attachments/assets/87bd6a81-c143-4034-b1e5-18bafbfbde3c)
 
-<h3> Tools & Envs, Platforms, Other:
+<h3>Tools & Envs, Platforms, Other:</h3>
 
 <br>
 <br>
@@ -36,7 +36,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |![git-removebg-preview](https://github.com/user-attachments/assets/59b4fcbb-d351-4ac2-9de5-d81380402f07)|![jira-removebg-preview](https://github.com/user-attachments/assets/99aa5741-6290-4eb5-a293-819ca5171e83)|![nj-removebg-preview](https://github.com/user-attachments/assets/2b6ebaee-bc8b-42e7-9598-1af8e666fd70)|![ros2-removebg-preview (1)](https://github.com/user-attachments/assets/8224183a-5682-4270-8a6c-cc33f8cba780)|![ard-removebg-preview](https://github.com/user-attachments/assets/9b48b44b-68e7-45b3-a673-6936a0b9924e)|![rp-removebg-preview](https://github.com/user-attachments/assets/24f098d3-f56d-4096-b9f1-229e3609b5d8)|![si-removebg-preview](https://github.com/user-attachments/assets/e24a2aef-4ad4-488d-be99-b1a819a51156)|
 
-<h3> Languages:
+<h3>OS:</h3>
 
 <br>
 <br>
