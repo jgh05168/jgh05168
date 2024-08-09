@@ -4,7 +4,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=30&fontAlign=70&descAlign=80&descAlignY=40&rotate=18)
+![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=70&descAlign=80&descAlignY=40&rotate=12)
 
  
 <h2><strong>🌟 Tech Stack 🌟</strong>
