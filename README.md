@@ -1,10 +1,10 @@
 <div align="right">
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgh05168%2F&count_bg=%2384CF4C&title_bg=%23888DFF&icon=waze.svg&icon_color=%23FAFD67&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgh05168%2F&count_bg=%2384CF4C&title_bg=%23888DFF&icon=waze.svg&icon_color=%23FAFD67&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
 
  
 <h2><strong>🌟 Tech Stack 🌟</strong>
