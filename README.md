@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=300&section=header&text=Hello!!-nl-&desc=I'm%20Gyuhun&fontSize=70&descSize=30&fontAlign=70&descAlign=80&rotate=20)
-
- 
 <div align="right">
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgh05168%2F&count_bg=%2384CF4C&title_bg=%23888DFF&icon=waze.svg&icon_color=%23FAFD67&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=slice&theme=tokyonight&color=auto&height=300&section=header&text=Hello!!-nl-&desc=I'm%20Gyuhun&fontSize=70&descSize=30&fontAlign=70&descAlign=80&rotate=20)
+
  
 <h2><strong>🌟 Tech Stack 🌟</strong>
 
