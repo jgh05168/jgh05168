@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,6,8,14,15,18,20,24,30&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
 
 <div align="center">
-    <span style="font-size:400"><strong><em>✨ Development ? Even Better ✨</em></strong></span>
+    <span style="font-size:300%"><strong><em>✨ Development ? Even Better ✨</em></strong></span>
     
 </div>
 
