@@ -6,6 +6,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,6,8,14,15,18,20,24,30&height=200&section=header&text=Hello!!&desc=I'm%20Gyuhun&fontSize=70&&fontAlignY=20&descSize=25&fontAlign=80&descAlign=85&descAlignY=40&rotate=12)
 
+<div align="center">
+    <h3>✨ _Development ? Even Better_ ✨</h3>
+    
+    
+</div>
+
+<h2>About Me , , ,🤔</h2>
+
+I'm a developer who understands the significance of debugging and swiftly resolving issues.
+
+I can get both result and fun through communication skills.
+
+I aspire to improve inconvenient experiences in real settings and enhance customer-centric convenience.
+
+I can quickly adjust to the first development and project environment.
  
 <h2><strong>🌟 Tech Stack 🌟</strong></h2>
 
