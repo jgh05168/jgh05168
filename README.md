@@ -39,7 +39,7 @@
 
 |Git|Jira|Node.js|ROS2|AUTOSAR|Arduino|Raspberry Pi|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|![git-removebg-preview](https://github.com/user-attachments/assets/59b4fcbb-d351-4ac2-9de5-d81380402f07)|![jira-removebg-preview](https://github.com/user-attachments/assets/99aa5741-6290-4eb5-a293-819ca5171e83)|![nj-removebg-preview](https://github.com/user-attachments/assets/2b6ebaee-bc8b-42e7-9598-1af8e666fd70)|![ros2-removebg-preview (1)](https://github.com/user-attachments/assets/8224183a-5682-4270-8a6c-cc33f8cba780)|![a](https://github.com/user-attachments/assets/978d16a3-ab8f-43a8-b611-817143c200f5)|![ard-removebg-preview](https://github.com/user-attachments/assets/9b48b44b-68e7-45b3-a673-6936a0b9924e)|![rp-removebg-preview](https://github.com/user-attachments/assets/24f098d3-f56d-4096-b9f1-229e3609b5d8)|
+|![git-removebg-preview](https://github.com/user-attachments/assets/59b4fcbb-d351-4ac2-9de5-d81380402f07)|![jira-removebg-preview](https://github.com/user-attachments/assets/99aa5741-6290-4eb5-a293-819ca5171e83)|![nj-removebg-preview](https://github.com/user-attachments/assets/2b6ebaee-bc8b-42e7-9598-1af8e666fd70)|![ros2-removebg-preview (1)](https://github.com/user-attachments/assets/8224183a-5682-4270-8a6c-cc33f8cba780)|![a](https://github.com/user-attachments/assets/a6c9c90c-eb04-4248-8c4f-3623f20098d9)|![ard-removebg-preview](https://github.com/user-attachments/assets/9b48b44b-68e7-45b3-a673-6936a0b9924e)|![rp-removebg-preview](https://github.com/user-attachments/assets/24f098d3-f56d-4096-b9f1-229e3609b5d8)|
 
 <h3>OS:</h3>
 
