@@ -22,7 +22,7 @@
 
 <h2>🏆 Awards 🏆</h2>
 
-![🥉 제 22회 임베디드 소프트웨어 경진대회 자율주행 레이싱 부문 장려상(3등)](https://github.com/jgh05168/ESW-Automobility-Contest-2024)
+🥉 [제 22회 임베디드 소프트웨어 경진대회 자율주행 레이싱 부문 장려상(3등)](https://github.com/jgh05168/ESW-Automobility-Contest-2024)
  
 <h2><strong>🌟 Tech Stack 🌟</strong></h2>
 
