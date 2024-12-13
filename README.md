@@ -39,9 +39,9 @@
 
 <h3>Frameworks & Libraries:</h3>
 
-|Tensorflow|Keras|Numpy|Pandas|Matplotlib|SkLearn|OpenCV|Socket.io|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|![tf-removebg-preview](https://github.com/user-attachments/assets/10b6d914-e2e0-4a38-8e68-4916b4c40c46)|![keras-removebg-preview](https://github.com/user-attachments/assets/edf2c7f3-e5bd-4973-8236-300593e36c36)|![np-removebg-preview](https://github.com/user-attachments/assets/a4c8ada6-e63b-4e50-ae4e-03a038e70b5a)|![pandas-removebg-preview](https://github.com/user-attachments/assets/3784e76e-f806-4643-af6a-70b295479379)|![ml-removebg-preview](https://github.com/user-attachments/assets/d03c0215-7dd6-4dac-9235-d5c904b13367)|![sklera-removebg-preview](https://github.com/user-attachments/assets/4a083605-852d-4ce4-8090-b101d19909f6)|![cv-removebg-preview](https://github.com/user-attachments/assets/87bd6a81-c143-4034-b1e5-18bafbfbde3c)|![si-removebg-preview](https://github.com/user-attachments/assets/e24a2aef-4ad4-488d-be99-b1a819a51156)|
+|Tensorflow|Keras|Numpy|OpenCV|Socket.io|
+|:---:|:---:|:---:|:---:|:---:|
+|![tf-removebg-preview](https://github.com/user-attachments/assets/10b6d914-e2e0-4a38-8e68-4916b4c40c46)|![keras-removebg-preview](https://github.com/user-attachments/assets/edf2c7f3-e5bd-4973-8236-300593e36c36)|![np-removebg-preview](https://github.com/user-attachments/assets/a4c8ada6-e63b-4e50-ae4e-03a038e70b5a)|![cv-removebg-preview](https://github.com/user-attachments/assets/87bd6a81-c143-4034-b1e5-18bafbfbde3c)|![si-removebg-preview](https://github.com/user-attachments/assets/e24a2aef-4ad4-488d-be99-b1a819a51156)|
 
 <h3>Tools & Envs, Platforms, Other:</h3>
 
