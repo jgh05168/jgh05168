@@ -33,9 +33,9 @@
 <h3>Languages:</h3>
 
 
-|Python3|C|C++|
+|C++|C|Python3|
 |:---:|:---:|:---:|
-|![pythonn__1_-removebg-preview](https://github.com/user-attachments/assets/5bca7612-bf1c-40b6-bf95-496711f5c8a7)|![c](https://github.com/user-attachments/assets/719134f5-b8c3-41c0-b853-9b9967851a89)|![c+](https://github.com/user-attachments/assets/16e07caa-c872-4afc-b6e5-c45782499a83)
+|![c+](https://github.com/user-attachments/assets/16e07caa-c872-4afc-b6e5-c45782499a83)|![c](https://github.com/user-attachments/assets/719134f5-b8c3-41c0-b853-9b9967851a89)|![pythonn__1_-removebg-preview](https://github.com/user-attachments/assets/5bca7612-bf1c-40b6-bf95-496711f5c8a7)
 
 <h3>Tools & Envs, Platforms, Other:</h3>
 
